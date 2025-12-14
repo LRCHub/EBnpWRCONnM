@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "開花宣言",
+  "base_artist": "上原歩夢 (CV.大西亜玖璃)",
+  "createdAt": "2025-12-14T13:39:31.301608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MANKAI☆開花宣言 (Game Size)",
+      "artist": "A3ders!, 佐久間咲也(CV:酒井広大), 皇天馬(CV:江口拓也), 摂津万里(CV:沢城千春) & 月岡紬(CV:田丸篤志)",
+      "has_synced": true,
+      "path": "select/01_MANKAI☆開花宣言_(Game_Size)_A3ders!,_佐久間咲也(CV_酒井広大),_皇天馬(CV_江口拓也),_摂津万里(CV_沢城千春)_&_月岡紬(CV_田丸篤志).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "開花宣言",
+      "artist": "花咲みやび",
+      "has_synced": true,
+      "path": "select/02_開花宣言_花咲みやび.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "開花宣言",
+      "artist": "上原歩夢 (CV.大西亜玖璃)",
+      "has_synced": true,
+      "path": "select/03_開花宣言_上原歩夢_(CV.大西亜玖璃).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "開花宣言",
+      "artist": "上原歩夢 (CV.大西亜玖璃)",
+      "has_synced": false,
+      "path": "select/pl_01_開花宣言_上原歩夢_(CV.大西亜玖璃).txt"
+    }
+  ]
+}
